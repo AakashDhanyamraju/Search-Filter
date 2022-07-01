@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/d/e/dell_g15_5515_amd_rayzen_7_16gb_ram_512gb_ssd_15.6-inch_gaming_laptop_1.jpg",
+        "title": "Gaming Laptop",
+        "category": "categories : Gaming/electronics",
+        "price": 335
+    },
+    {
+      "id": 2,
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/i/m/image_template_2_-_2020-11-23t113708.928.jpg",
+      "title": "Macbook M1 Air",
+      "category": "categories : electronics",
+      "price": 450
+    },
+    {
+      "id": 3,
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/p/s/ps5_b2.jpg",
+      "title": "PlayStation 5 Console",
+      "category": "categories : Gaming",
+      "price": 200
+    }
+    ,{
+      "id": 4,
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/s/o/sony-xg500-x-series-wireless-speaker-1.jpg",
+      "title": "Sony Speaker",
+      "category": "categories : Audio Accessories",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/255x300/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone_13_pro_max_graphite_pdp_image_position-1a_en.jpg",
+      "title": "iPhone",
+      "category": "categories : Mobile/phones",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/c/a/camera_1.jpg",
+      "title": "Sony DSLR Camera",
+      "category": "categories : Cameras",
+      "price": 400
+    }
+]
